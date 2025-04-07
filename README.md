@@ -54,5 +54,9 @@ ShopNow is a full-featured e-commerce platform built with **React + TypeScript +
 ```bash
 git clone https://github.com/pallavigupta6/Ecommerce_mern_app
 cd filename
+<img width="1512" alt="Screenshot 2025-04-07 at 12 35 32 PM" src="https://github.com/user-attachments/assets/6abc1418-ecee-414c-8187-29ba08feb6d8" />
+
+
+
 
 
