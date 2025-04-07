@@ -31,8 +31,8 @@ ShopNow is a full-featured e-commerce platform built with **React + TypeScript +
 
 - **Frontend**: React, TypeScript, Tailwind CSS, React Router
 - **State Management**: Zustand
-- **Backend**: Node.js, Express (assumed for API)
-- **Database**: MongoDB (assumed)
+- **Backend**: Node.js, Express 
+- **Database**: MongoDB 
 - **Auth**: JWT
 - **Other**: Axios for API calls
 
