@@ -50,10 +50,35 @@ ShopNow is a full-featured e-commerce platform built with **React + TypeScript +
 
 ## 🧪 How to Run the Project
 
+
+
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/pallavigupta6/Ecommerce_mern_app
 cd filename
+
+
+npm install
+npm run dev
+
+
+The Admin product creation functionality is not integrated with the frontend UI yet.
+To add a product manually, please use Postman (or any API testing tool) and send a POST request to:
+
+POST http://localhost:3000/api/admin/create
+Make sure to:
+
+Include the required product data in the request body (in JSON format).
+{
+    "name": "Bob",
+    "address": "Bangalore",
+    "mobileNumber": "9898989898",
+    "dateOfBirth": "1998-09-06",
+    "email": "bob@gmail.com",
+    "password": "Password@1998"
+}
+Set the proper authorization header (if your backend requires auth).
+
 <img width="1512" alt="Screenshot 2025-04-07 at 12 35 32 PM" src="https://github.com/user-attachments/assets/6abc1418-ecee-414c-8187-29ba08feb6d8" />
 
 
