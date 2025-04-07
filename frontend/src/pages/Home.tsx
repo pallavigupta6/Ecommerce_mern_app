@@ -5,7 +5,7 @@ const Home: React.FC = () => {
   return (
     <div className="min-h-screen bg-gray-100 text-gray-800">
       {/* Hero Section */}
-      <div className="bg-white py-20 px-6 text-center shadow-md relative">
+      <div className="bg-white py-20 px-6 text-center shadow-md ">
         {/* Cart Image */}
       
 
